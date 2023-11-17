@@ -1,0 +1,22 @@
+.footer {
+    background-color: #6278F7;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 80px;
+    color: #fff;
+}
+
+.footer .icones img {
+    display: inline-block;
+    margin: 32px;
+}
+
+.footer .icones img:last-child {
+    margin-right: 0;
+}
+
+.footer p {
+    font-size: 20px;
+    font-weight: 500;
+}
